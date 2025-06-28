@@ -54,11 +54,6 @@ Ao concluir este desafio, você será capaz de:
 
 ---
 
-## 📥 Download
-
-Você pode baixar a planilha diretamente [clicando aqui](./Simulação_de_investimentos_em_fundos_imobiliários(Principal).xlsx)
-
----
 
 ## 📌 Licença
 

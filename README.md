@@ -56,7 +56,7 @@ Ao concluir este desafio, você será capaz de:
 
 ## 📥 Download
 
-Você pode baixar a planilha diretamente [clicando aqui](./Simulação de investimentos em fundos imobiliários(Principal).csv) (caso já esteja no repositório).
+Você pode baixar a planilha diretamente [clicando aqui](./Simulação_de_investimentos_em_fundos_imobiliários(Principal).csv)
 
 ---
 

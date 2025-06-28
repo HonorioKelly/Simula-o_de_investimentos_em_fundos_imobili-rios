@@ -56,7 +56,7 @@ Ao concluir este desafio, você será capaz de:
 
 ## 📥 Download
 
-Você pode baixar a planilha diretamente [clicando aqui](./simulador_fii.xlsx) (caso já esteja no repositório).
+Você pode baixar a planilha diretamente [clicando aqui](Simulador_Investimentos_Fundos_Imobiliarios_Excel_Resolvido.xlsx) (caso já esteja no repositório).
 
 ---
 

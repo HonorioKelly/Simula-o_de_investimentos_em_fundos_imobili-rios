@@ -33,7 +33,7 @@ Ao concluir este desafio, você será capaz de:
 
 ## 📂 Estrutura do Projeto
 
-- `simulador_fii.xlsx` – Planilha desenvolvida com fórmulas e lógica para simulação de investimentos
+- `Simulação de investimentos em fundos imobiliários(Principal)` – Planilha desenvolvida com fórmulas e lógica para simulação de investimentos
 - `README.md` – Documentação e informações sobre o projeto
 
 ---
@@ -41,7 +41,7 @@ Ao concluir este desafio, você será capaz de:
 ## 🚀 Como Usar
 
 1. Baixe ou clone este repositório
-2. Abra o arquivo `simulador_fii.xlsx` no Microsoft Excel
+2. Abra o arquivo `Simulação de investimentos em fundos imobiliários(Principal).csv` no Microsoft Excel
 3. Preencha os campos de entrada (valor inicial, aporte mensal, taxa de rendimento etc.)
 4. Veja os resultados da simulação: dividendos mensais, total acumulado e retorno esperado
 
@@ -56,7 +56,7 @@ Ao concluir este desafio, você será capaz de:
 
 ## 📥 Download
 
-Você pode baixar a planilha diretamente [clicando aqui](./Simulação_de_investimentos_em_fundos_imobiliários(Principal).csv)
+Você pode baixar a planilha diretamente [clicando aqui](./Simulação_de_investimentos_em_fundos_imobiliários(Principal).xlsx)
 
 ---
 
